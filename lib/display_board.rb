@@ -1,3 +1,5 @@
+board = []
+
 def display_board
 puts "   |   |   "
 puts "-----------"
@@ -6,4 +8,4 @@ puts "-----------"
 puts "   |   |   "
 end
 
-display_board
+print "#{display_board}
