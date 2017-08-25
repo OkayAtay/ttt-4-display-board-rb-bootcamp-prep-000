@@ -7,3 +7,5 @@ puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 end
+
+print display_board()
