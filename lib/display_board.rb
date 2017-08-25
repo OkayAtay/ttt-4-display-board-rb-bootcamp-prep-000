@@ -6,5 +6,5 @@ puts "-----------"
 puts "   |   |   "
 end
 
-puts "#{display_board()}"
+print "#{display_board()}"
 board = [" "," "," "," "," "," "," "," "," "]
