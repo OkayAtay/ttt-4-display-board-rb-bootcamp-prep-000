@@ -8,5 +8,5 @@ puts "-----------"
 puts "   |   |   "
 end
 
-board = [   ,    ,    ,    ,    ,   ,    ,   ,    ]
-puts "display_board"
+board = [" " ," "," "," "," "," "," "," "," "]
+puts "#{display_board}s"
