@@ -9,3 +9,5 @@ puts "   |   |   "
 end
 
 print "#{display_board}"
+board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+display_board(board)
