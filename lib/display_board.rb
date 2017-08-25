@@ -9,4 +9,4 @@ puts "   |   |   "
 end
 
 board = [" " ," "," "," "," "," "," "," "," "]
-puts "#{display_board}s"
+puts "#{display_board(board)}"
