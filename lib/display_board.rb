@@ -5,7 +5,6 @@ puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 end
-board.new = []
+board = Array.new
 board.push(" "," "," "," "," "," "," "," "," ")
 print "#{display_board}"
-
