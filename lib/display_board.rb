@@ -1,7 +1,7 @@
-def display_board do
-puts " "|" "|" "
-puts -----------
-puts " "|" "|" "
-puts -----------
-puts " "|" "|" "
+def display_board 
+puts "  |  |  "
+puts "-----------"
+puts "  |  |  "
+puts "-----------"
+puts " |  |  " 
 end
