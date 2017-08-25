@@ -12,3 +12,5 @@ print "#{display_board}"
 
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
+board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
+display_board(board)
